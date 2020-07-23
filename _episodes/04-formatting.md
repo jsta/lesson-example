@@ -319,10 +319,10 @@ for the following special blockquotes:
 > A laudatory quote from a user.
 {: .testimonial}
 
-> ## `.warningerr`
+> ## `.alert`
 >
-> A warning or notice about common errors.
-{: .warningerr}
+> An alert, warning, or notice.
+{: .alert}
 
   </div>
 </div>
